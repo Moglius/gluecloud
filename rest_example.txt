@@ -1,0 +1,5 @@
+{
+  "provider": "aws",
+  "ami_id": "ami-12312312321",
+  "instance_type": "tiny"
+}
